@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802472345191",
+    "firebase_url": "https://instagram-812bf-default-rtdb.firebaseio.com",
+    "project_id": "instagram-812bf",
+    "storage_bucket": "instagram-812bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802472345191:android:019e65aa149aa2f07f1ec2",
+        "android_client_info": {
+          "package_name": "com.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802472345191-h4v6km4gobvhbq2j74fa98u6lkejsefj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7eDDLtBR8QGPz7zVcms3gu5A5hUz_KAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802472345191-h4v6km4gobvhbq2j74fa98u6lkejsefj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
